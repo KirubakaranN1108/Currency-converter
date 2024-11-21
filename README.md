@@ -11,8 +11,6 @@ A web-based application that allows users to convert currency values between dif
 - **Multiple Currencies Supported**: Supports conversion between various international currencies.
 - **Error Handling**: Validates input values and ensures meaningful user feedback.
 
-## Demo 🖥️
-> (You can add a live demo link here if hosted online, e.g., GitHub Pages or Netlify.)
 
 ## Technologies Used 🛠️
 
